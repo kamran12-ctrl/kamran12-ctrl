@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kamran12-ctrl
 - 👀 I’m interested in ...programming
-- 🌱 I’m currently learning ...class ten
+- 🌱 I’m currently learning ...Phyton programming
 - 💞️ I’m looking a Jarvis project
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
